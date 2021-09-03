@@ -5,7 +5,7 @@ The code in these projects is only meant as a reference and should not be direct
 ⚡A set of web mini projects using XHTML, HTML5, CSS3, Java Script, Bootstrap, PHP, Ajax:
 
  💬 Project 1: A Javascript Digital clock.<br>
- 💬 Project 2: A Followers Counter.
+ 💬 Project 2: A Followers Counter.<br>
  💬 Project 3:
  💬 Project 4:
  💬 Project 5:
