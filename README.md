@@ -8,4 +8,4 @@ The code in these projects is only meant as a reference and should not be direct
  💬 Project 2: A Followers Counter.<br>
  💬 Project 3: Blurry Loading Image<br>
  💬 Project 4: Popup Menu Animation<br>
- 💬 Project 5:StopWatch(js)<br>
+ 💬 Project 5:StopWatch<br>
