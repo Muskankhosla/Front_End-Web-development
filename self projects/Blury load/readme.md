@@ -1,1 +1,2 @@
-https://raw.githack.com/MuskanKhosla/Front_End-Web-development/self projects/Blury load/index.html
+LIVE DEMO
+http://htmlpreview.github.io/?https://github.com/Muskankhosla/Front_End-Web-development/blob/main/self%20projects/Blury%20load/index.html
