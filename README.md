@@ -9,3 +9,4 @@ The code in these projects is only meant as a reference and should not be direct
  💬 Project 3: Blurry Loading Image<br>
  💬 Project 4: Popup Menu Animation<br>
  💬 Project 5:StopWatch<br>
+  💬 Project 6:Social Media Icons<br>
