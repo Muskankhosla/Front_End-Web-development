@@ -1,0 +1,106 @@
+   
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+      background: rgb(236, 222, 194);
+  }
+  #title{
+      padding-top: 5vh;
+      text-align: center;
+      color:rgb(47, 15, 224);
+      font-family:  sans-serif;
+      font-size: 2em;
+      text-decoration:navajowhite;
+      
+  }
+  .parent{
+      width:700px;
+      margin:auto;
+      margin-top: 50px;
+      padding: 10px;
+  }
+  .inner1{ 
+      width:100%;
+      margin:auto;
+      text-align: center;
+      
+  }
+  .inner1  input{
+      background-color:rgba(255, 255, 255, 0.904);
+      width:40%;
+      height:35px;
+      border-color:  blue;
+      border-radius: 5px;
+      text-decoration: none;
+      outline: none;
+      text-align: center;
+      
+  }
+  .inner1  input:focus{
+      border: none;
+  }
+  .inner1 button{
+      background-color:white;
+      color:black;
+      height:35px;
+      border-color:  black;
+      border-radius: 5px;
+      cursor:pointer;
+      padding: 6px;
+      font-family:'Candal',sans-serif;
+  }
+  .inner2{
+      margin-top: 20px;
+  }
+  .inner2 ul{
+      width:55%;
+      margin:auto;
+      list-style: none;
+  }
+  
+  .container{
+      background-color: rgba(12, 212, 243, 0.212);
+      margin-top: 15px;
+      margin-bottom: 15px;
+     
+  }
+  
+   .outer_div{
+      text-align: center;
+      background-color: rgb(141, 212, 231);
+      
+      padding:5px;
+      display: flex;
+      border-radius: 10px;
+  }
+  
+  .list_item{
+     
+      font-size: 20px;
+      
+  }
+  .list_icon{
+      padding:5px;
+  }
+  .list_icon button{
+      margin-left: 5px;
+      margin-right: 5px;
+      border: none;
+      text-decoration: none;
+      cursor :pointer;
+  }
+  .list_icon  i{
+      background-color:white;
+      font-size:25px;
+  }
+  @media screen and (max-width:700px) {
+      #title{ font-size: 2em;}
+      .parent{
+          width:350px;
+          margin-top: 5px;
+      }
+      .inner2{ margin-top: 5px; }
+      .container{ padding:5px; }
+  }
